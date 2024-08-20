@@ -12,6 +12,7 @@
 - [Spring MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 - [Spring for Kafka](https://docs.spring.io/spring-kafka/reference/html/)
 - [Kafka](https://kafka.apache.org)
+- [Zookeeper](https://zookeeper.apache.org/)
 - [Docker Compose](https://docs.docker.com/compose/)
 
 ## Test
